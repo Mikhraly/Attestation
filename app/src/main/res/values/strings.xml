@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Attestation</string>
+    <string name="Title">Здоровое питание</string>
+    <string name="rightNow">Переходите на здоровое питание\n прямо сейчас!!!</string>
+    <string name="to_start">Начать!</string>
+    <string name="to_store">Купить\n продукты</string>
+    <string name="breakfast">Завтрак</string>
+    <string name="to_main">На главную</string>
+    <string name="to_lunch">Смотреть обед</string>
+    <string name="lunch">Обед</string>
+    <string name="to_dinner">Смотреть ужин</string>
+    <string name="to_breakfast">Смотреть завтрак</string>
+    <string name="dinner">Ужин</string>
+</resources>
